@@ -1,21 +1,20 @@
 
 ## Download & Run
 
-**Download ZIP**  
+**1. Download ZIP**  
 - Click the `Code` button in this repository `Temporal-Odyssey_PCBuild`.  
 - Select `Download ZIP` and then unzip the contents.
 
-**Clone via Git**  
+**2. Clone via Git**  
 Open command promt and run the following command:
 ```bash
 git clone https://github.com/NirajArts/Temporal-Odyssey_PCBuild.git
 ```
-**Direct Downlaod link from Gamepage**  
+**3. Direct Downlaod link from Gamepage**  
 [![Download Windows Build](https://img.shields.io/badge/Download-Windows%20Build-blue.svg)](https://nirajarts.itch.io/temporal-odyssey/download/eyJleHBpcmVzIjoxNzQxMjg1MzQyLCJpZCI6MzA5MDg4MX0%3d.YDcM7VQeyjmt66HbzGvXzQ52M2w%3d)
 
-**Running the excecutable** 
--After downloading or cloning, locate the `Temporal Odyssey PC` folder.
--Run the `Temporal Odyssey.exe` from that folder to launch the game.
+> **Running the excecutable:** 
+ After downloading or cloning, locate the `Temporal Odyssey PC` folder. Run the `Temporal Odyssey.exe` from that folder to launch the game.
 
 ### Gamepage:
 <!-- Big Play Button -->
