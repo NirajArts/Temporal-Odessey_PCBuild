@@ -10,7 +10,7 @@ Open command promt and run the following command:
 ```bash
 git clone https://github.com/NirajArts/Temporal-Odyssey_PCBuild.git
 ```
-**3. Direct Downlaod link from Gamepage**  
+**3. Direct Downlaod from Gamepage**  
 [![Download Windows Build](https://img.shields.io/badge/Download-Windows%20Build-blue.svg)](https://nirajarts.itch.io/temporal-odyssey/download/eyJleHBpcmVzIjoxNzQxMjg1MzQyLCJpZCI6MzA5MDg4MX0%3d.YDcM7VQeyjmt66HbzGvXzQ52M2w%3d)
 
 > **Running the excecutable:** 
