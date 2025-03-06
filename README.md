@@ -48,6 +48,12 @@ With the power of the Tromoxite Warp, you’ll journey across three distinct wor
 
 <hr>
 
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://link-to-your-game.com" target="_blank">
+    <img src="https://img.itch.zone/aW1hZ2UvMzA5MDg4MS8xODQ4MzMxOS5qcGc=/347x500/CG%2BYGf.jpg" alt="Play Now" style="width:300px;">
+  </a>
+</div>
+
 <!-- Worlds Breakdown -->
 ## Worlds Breakdown
 
